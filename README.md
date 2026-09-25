@@ -34,7 +34,8 @@ Spam detection is one of the most widely used applications of natural language p
   <img src="assets/screenshot.png" alt="App screenshot" width="800">
 </p>
 
-> Replace `assets/screenshot.png` with an actual screenshot of your running app.
+> Replace `<img width="960" height="475" alt="image" src="https://github.com/user-attachments/assets/d8b1e4ce-fbb1-4a3a-b604-cb48c517a22a" />
+` with an actual screenshot of your running app.
 
 ---
 
